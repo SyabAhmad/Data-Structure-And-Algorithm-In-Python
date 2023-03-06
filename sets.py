@@ -1,0 +1,17 @@
+print("Set Data Structure in Python")
+sets = {123, 345, 678, 321}
+# sets.clear()
+# print(set)
+sets.remove(123)
+print(set)
+sets.pop()
+print(set)
+sets.add(23)
+print(set)
+sets.update()
+print(set)
+# sets.issuperset()
+# sets.issubset()
+
+set1 = sets.copy()
+print(set1)
