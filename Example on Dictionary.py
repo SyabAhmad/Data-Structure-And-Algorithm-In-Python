@@ -1,4 +1,4 @@
-print("Example on Sets DSA using Python")
+print("Example on Dictionary DSA using Python")
 class carsClass:
 
     carsList = {"Toyota": 20000}

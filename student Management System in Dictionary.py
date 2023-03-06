@@ -1,6 +1,4 @@
-print("Student Management System using Dictionary in Python")
-
-
+print("Small Student Management System using Dictionary in Python")
 
 class teacherData:
     teacherList = {}

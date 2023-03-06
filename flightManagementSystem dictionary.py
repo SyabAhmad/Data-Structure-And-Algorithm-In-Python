@@ -1,4 +1,4 @@
-print("Flight Management System using Python Dictionary")
+print("Small Flight Management System using Python Dictionary")
 
 class flightManagementSystem:
     passportNumber = {}
