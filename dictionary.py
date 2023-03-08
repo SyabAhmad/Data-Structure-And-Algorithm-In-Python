@@ -8,6 +8,3 @@ print(sorted(dictt))
 print(dictt)
 del (dictt["grapes"])
 print(dictt)
-
-
-

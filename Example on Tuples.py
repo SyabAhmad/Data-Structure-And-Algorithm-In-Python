@@ -25,9 +25,9 @@ print(tuple3)   # output: ('a', 'b', 'c', 1, 2, 3)
 # get the length of a tuple
 print(len(my_tuple))   # output: 3
 
-#In this example, we create a tuple called my_tuple
-# with three elements:'apple', 'banana', and 'cherry'.
-# We then accessindividual elements of the tuple using
-# indexing,loop through the elements using a for loop,
-# and convert the tuple to a list and back to a tuple.
-#We also concatenate two tuples and get the length of a tuple.
+                        # In this example, we create a tuple called my_tuple
+                        # with three elements:'apple', 'banana', and 'cherry'.
+                        # We then accessindividual elements of the tuple using
+                        # indexing,loop through the elements using a for loop,
+                        # and convert the tuple to a list and back to a tuple.
+                        # We also concatenate two tuples and get the length of a tuple.
